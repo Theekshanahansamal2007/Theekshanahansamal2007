@@ -1,6 +1,6 @@
 # Tikka 
 
->*information and communication technology*
+>information and communication technology
 
 
 
