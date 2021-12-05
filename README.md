@@ -1,6 +1,6 @@
 # Tikka 
 
-[Contribution guidelines for this project
+[information and communication technology 
 
 
 
