@@ -1,11 +1,7 @@
-#theekshana
-
-<table></th><th>Theekshana hansaml</th></tr><tr><td><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/T4YLR8T/51318294585-ae373bc494-o-d.jpg
-" width="180" alt="Theekshana Hansamal">
 
 
 
-[![HitCount](http://hits.dwyl.com/Theekshanahansamal2007/new-project.svg?style=flat-square)](http://hits.dwyl.com/Theekshanahansamal2007/new-project)
+<img src="https://i.ibb.co/7J4LvR8/IMG-20220530-WA0001.jpg">
 
 
 
@@ -13,13 +9,6 @@
 
 
 
-
-- [x] <table></th><th>Theekshana hansaml</th></tr><tr><td><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/YPL0mLF/IMG-20211208-WA0006.jpg" width="180" alt="Theekshana Hansamal"
-
-- [x] https://github.com/Theekshanahansamal2007
-
-- [x] 0741844543
-https://wa.me/94741844543
-
+ 
 
 
