@@ -1,7 +1,7 @@
 #theekshana
 
 <table></th><th>Theekshana hansaml</th></tr><tr><td><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/T4YLR8T/51318294585-ae373bc494-o-d.jpg
-" width="180" alt="Theekshana Hansamal"
+" width="180" alt="Theekshana Hansamal">
 
 
 
